@@ -13,6 +13,8 @@
 | 	             |   `..`      |change to parent directory          | 
 | `ls	`        |            | list files and directories        |
 
+|                |    `-a`	  |   list all show hidden files      |
+
 | Command | Params      |Meaning                                  |
 |---------|-----------|-------------------------------|
 | `cp `            | `file1 file2`    | copy file1 and call it file2 |
@@ -30,12 +32,11 @@
 | `who`       |               | list users currently logged in |
 | `chmod xxx`  |       | change modify permission | 
 | `Quit`    |     | TO Exit from Shell | 
-
+| `!x`         |       | this loads command `x` from your history so you can run it again |
 
 ## commands not working properly.
 | Command	     | Flag / Param      | Meaning                           |
 |----------------|------------|-----------------------------------|
-|                |    `-a`	  |   list all show hidden files      |
 |                |    `-l`	  |    long listing                   |
 |                |    `-h`	  |    human readable sizes           |
 | `command > file` |          | redirect standard output to a file |
@@ -43,7 +44,7 @@
 | `command < file`   |        | redirect standard input from a file |
 | `command1 | command2`|      | pipe the output of command1 to the input of command2 |
 | `cat file1 file2 > file0`|  | concatenate file1 and file2 to file0 |
-| `!x`         |       | this loads command `x` from your history so you can run it again |
+
 
 
 >Group Members
