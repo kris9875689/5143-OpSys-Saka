@@ -12,8 +12,8 @@
 |                |   `~	`      |change to home-directory           |
 | 	             |   `..`      |change to parent directory          | 
 | `ls	`        |            | list files and directories        |
-
 |                |    `-a`	  |   list all show hidden files      |
+
 
 | Command | Params      |Meaning                                  |
 |---------|-----------|-------------------------------|
