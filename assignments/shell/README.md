@@ -5,17 +5,17 @@
 
 | Command	     | Flag / Param      | Meaning                          |
 |---------|-----------|-------------------------------|
-| `ls	`        |            | list files and directories |
+| `ls	`           |            | list files and directories |
 
-|                |    `-a`	  |   list all show hidden files |
-|                |    `-l`	  |    long listing |
-|                |    `-h`	  |    human readable sizes |
-| `mkdir`	     |             |make a directory |
+|                 |    `-a`	  |   list all show hidden files |
+|                 |    `-l`	  |    long listing |
+|                 |    `-h`	  |    human readable sizes |
+| `mkdir`	       |             |make a directory |
 | `cd`           |  `directory` |change to named directory |
-| `cd`	         |             |change to home-directory |
-|                |   `~	`      |change to home-directory |
-| 	             |   `..`      |change to parent directory | 
-| `pwd`	         |             |display the path of the current directory |
+| `cd`	          |             |change to home-directory |
+|                  |   `~	`      |change to home-directory |
+| 	                |   `..`      |change to parent directory | 
+| `pwd`	           |             |display the path of the current directory |
 
 
 
