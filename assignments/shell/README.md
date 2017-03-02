@@ -4,15 +4,18 @@
 # List of commands we Implemented.
 
 | Command	     | Flag / Param      | Meaning                           |
+| `ls	`        |            | list files and directories        |
+|                |    `-a`	  |   list all show hidden files      |
+|                |    `-l`	  |    long listing                   |
+|                |    `-h`	  |    human readable sizes           |
 |----------------|------------|-----------------------------------|
-| `pwd`	         |             |display the path of the current directory |
 | `mkdir`	     |             |make a directory                  |
 | `cd`           |  `directory` |change to named directory         |
 | `cd`	         |             |change to home-directory          |
 |                |   `~	`      |change to home-directory           |
 | 	             |   `..`      |change to parent directory          | 
-| `ls	`        |            | list files and directories        |
-|                |    `-a`	  |   list all show hidden files      |
+| `pwd`	         |             |display the path of the current directory |
+
 
 
 | Command | Params      |Meaning                                  |
@@ -27,22 +30,28 @@
 | `tail`             | `file` | display the last few lines of a file |
 | `grep`             | `'keyword' file` | search a file for keywords |
 | `wc`             | `file` | count number of lines/words/characters in file |
-| `sort`               |        | sort data |
-| `history`   |        | show a history of all your commands |
-| `who`       |               | list users currently logged in |
-| `chmod xxx`  |       | change modify permission | 
-| `Quit`    |     | TO Exit from Shell | 
-| `!x`         |       | this loads command `x` from your history so you can run it again |
 
-## commands not working properly.
-| Command	     | Flag / Param      | Meaning                           |
-|----------------|------------|-----------------------------------|
-|                |    `-l`	  |    long listing                   |
-|                |    `-h`	  |    human readable sizes           |
-| `command > file` |          | redirect standard output to a file |
-| `command >> file` |         | append standard output to a file |
+
+| Command | Params      |Meaning                                  |
+
+| `command > file`   |        | redirect standard output to a file |
+| `command >> file`   |        | append standard output to a file |
 | `command < file`   |        | redirect standard input from a file |
 | `command1 | command2`|      | pipe the output of command1 to the input of command2 |
+| `who`       |               | list users currently logged in |
+| `sort`               |        | sort data |
+
+| Command | Params      |Meaning                                  |
+| `history`   |        | show a history of all your commands |
+| `!x`         |       | this loads command `x` from your history so you can run it again |
+| `chmod xxx`  |       | change modify permission | 
+| `Quit`    |     | TO Exit from Shell | 
+
+
+#Command Not working properly
+| Command	     | Flag / Param      | Meaning                           |
+|----------------|------------|-----------------------------------|
+
 | `cat file1 file2 > file0`|  | concatenate file1 and file2 to file0 |
 
 
