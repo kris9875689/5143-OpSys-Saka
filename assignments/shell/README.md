@@ -6,7 +6,6 @@
 | Command	     | Flag / Param      | Meaning                          |
 |---------|-----------|-------------------------------|
 | `ls	`           |            | list files and directories |
-
 |                 |    `-a`	     |   list all show hidden files |
 |                 |    `-l`	     |    long listing |
 |                 |    `-h`	     |    human readable sizes         |
