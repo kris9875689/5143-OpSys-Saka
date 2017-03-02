@@ -15,7 +15,7 @@
 | `cd`	          |             |change to home-directory |
 |                  |   `~	`      |change to home-directory |
 | 	                |   `..`      |change to parent directory | 
-| `pwd`	           |             |display the path of the current directory |
+| `pwd`	           |             |display the path of the current directory  |
 
 
 
