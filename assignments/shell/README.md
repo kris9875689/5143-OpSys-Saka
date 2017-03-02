@@ -33,7 +33,7 @@
 
 
 | Command | Params      |Meaning                                  |
-
+|---------|-----------|-------------------------------|
 | `command > file`   |        | redirect standard output to a file |
 | `command >> file`   |        | append standard output to a file |
 | `command < file`   |        | redirect standard input from a file |
@@ -42,6 +42,7 @@
 | `sort`               |        | sort data |
 
 | Command | Params      |Meaning                                  |
+|---------|-----------|-------------------------------|
 | `history`   |        | show a history of all your commands |
 | `!x`         |       | this loads command `x` from your history so you can run it again |
 | `chmod xxx`  |       | change modify permission | 
@@ -51,7 +52,6 @@
 #Command Not working properly
 | Command	     | Flag / Param      | Meaning                           |
 |----------------|------------|-----------------------------------|
-
 | `cat file1 file2 > file0`|  | concatenate file1 and file2 to file0 |
 
 
