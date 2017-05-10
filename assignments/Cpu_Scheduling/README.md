@@ -45,6 +45,6 @@ MadhuChirrareddy Kattreddy:
 Pie Chart for participation:
 ---------------------------
 
-![](https://github.com/Anushamongolu/5143-201-OpSys-mongolu/blob/master/assignments/Cpu_Scheduling/krishna%201.jpg)
+![](https://github.com/krishnasaka/5143-OpSys-Saka/blob/master/assignments/Cpu_Scheduling/Participation%20Chart.jpg)
 
 
