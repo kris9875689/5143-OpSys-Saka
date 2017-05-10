@@ -47,4 +47,34 @@ Pie Chart for participation:
 
 ![](https://github.com/krishnasaka/5143-OpSys-Saka/blob/master/assignments/Cpu_Scheduling/Participation%20Chart.jpg)
 
+File Structure in this project:
+------------------------------
+
+Components:
+
+- _init_.py
+- accounting.py
+- clock.py
+- cpu.py
+- fifo.py
+- memory.py
+- process.py
+- run_all.py
+- semaphore.py
+- sim_components.py
+
+Input Data:
+
+- jobs_in_a.txt
+- jobs_in_b.txt
+- jobs_in_c.txt
+
+Output Data:
+
+- jobs_out_a.txt
+- jobs_out_b.txt
+- jobs_out_c.txt
+
+
+Simulation.py
 
