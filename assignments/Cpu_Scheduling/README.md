@@ -4,8 +4,8 @@ Team members:
 
 | Name                           | Email                      | Github Username  |
 | ------------------------------ |:---------------:           | ----------------:|
-|  Mongolu,Anusha                | anusha.mongolu94@gmail.com | Anushamongolu    |
-|  Krishna,Saka                  | krishna09eee@gmail.com     | krishnasaka      |
+|  krishna,Saka                | krishna09eee@gmail.com | krishnasaka    |
+|  Mongolu,Anusha                  | anusha.mongolu94@gmail.com     | Anushamongolu      |
 |  kattreddy, Madhuchirra Reddy  | madhureddykp477@gmail.com  | madhureddykp477  |
 
 
